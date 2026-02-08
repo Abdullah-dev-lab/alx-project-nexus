@@ -31,7 +31,7 @@ Design a movie dashboard featuring trending and recommended movies.
 Use media queries to ensure the app is fully responsive across devices.
 Provide smooth interactions, including hover effects and animations for movie cards.
 
-# mplementation Process
+# Implementation Process
 Git Commit Workflow
 **Initial Setup:**
 feat: initialize Next.js project with TypeScript
